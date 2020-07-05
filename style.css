@@ -1,0 +1,50 @@
+body {
+    background-color:black;
+}
+
+.main {
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    background-color: white;
+}
+
+
+.header {
+    padding: 10px;
+}
+
+.fab {
+    float: left;
+    font-size: 300%;
+    padding-right: 10px;
+}
+
+.fas {
+    float: right;
+    margin-top:5px;
+    padding-right: 10px;
+}
+
+.save {
+    float: right;
+    padding-right: 10px;
+}
+
+.far {
+    padding-left: 3px;
+}
+
+.post-title {
+    margin-bottom: 0px;
+    margin-top:2px;
+}
+
+.post-subtitle {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.p-10 {
+    padding: 10px;
+}
